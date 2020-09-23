@@ -19,6 +19,9 @@ FirstSeleniumTest
     Log    Test completed              
     Log    This test was executed by %{username} on %{os}    
 
+SecondTest
+    Log    Second test    
+
 *** Variables ***
 ${URL}          https://opensource-demo.orangehrmlive.com/
 @{CREDENTIALS}    Admin    admin123
