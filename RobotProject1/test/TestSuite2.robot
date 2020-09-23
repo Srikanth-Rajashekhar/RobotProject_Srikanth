@@ -4,7 +4,7 @@ FirstTest
     Log    This is my first test
 
 SecondTest
-    Log    This is my second test
+    Log    This is my second sample test
     Set Tags    Regression1
     Remove Tags    Regression1
 
