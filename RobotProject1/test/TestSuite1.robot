@@ -20,7 +20,7 @@ FirstSeleniumTest
     Log    This test was executed by %{username} on %{os}    
 
 SecondTest
-    Log    Second test    
+    Log    message    
 
 *** Variables ***
 ${URL}          https://opensource-demo.orangehrmlive.com/
